@@ -1,0 +1,319 @@
+﻿
+*{
+	scrollbar-face-color:       #f9f9f9;  
+    scrollbar-shadow-color:     #f4f4f4;  
+    scrollbar-highlight-color:  #fcfcfc;  
+    scrollbar-3dlight-color:    #ffffff;  
+    scrollbar-darkshadow-color: #f2f2f2;  
+    scrollbar-track-color:      #ffffff;  
+    scrollbar-arrow-color:      #ffffff; 
+}
+
+
+body {
+	margin:0px auto;
+	font-family: 'Abel', sans-serif;
+	background: #fafafa
+	}
+
+
+#hed {
+	height: 70px;
+	margin:0 auto 25px;
+	background:#d9dbdb;
+	padding:0px 10px 10px 7px;
+	border-bottom: 1px solid #d1d1d1;
+	position: fixed;
+	top: 0;
+	left: 0;
+	min-width: 100%;
+	z-index: 5
+}
+
+
+#logo{
+	width:230px;
+	float: left;
+	padding:15px 0px 0px 13px;
+
+}
+
+
+#logo p{
+	color: #002663;
+	margin:20px;
+	position: relative;
+	left:13px;
+	font-size: 23px;
+	font-weight:200;
+	top:6px;
+}
+
+
+#nav{
+	min-width:1150px; 
+	float: left;
+	left: 170px;
+	position: absolute;
+}
+
+
+#menu li{
+	width:120px;
+	list-style-type: none;
+	display: block;
+	float:left;
+	height: 70px;
+	padding:10px 12px 0px ;
+	font-weight: 100
+
+}
+
+
+#menu li:hover {
+	background: #f2af00;
+	color:white;
+}
+
+
+#menu {
+	
+}
+
+
+#menu a{
+	text-decoration: none;
+	color:#002663;
+	text-transform: uppercase;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+
+#section-1{
+	clear: both;
+	height: 690px;
+	margin: 0 auto;
+	margin-top: 120px;
+	margin-bottom: 800px;
+	width: 1300px;
+	background: url('https://teams.aexp.com/sites/ushub/UShub/_images/gallery/Slide1.PNG');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	position: relative;
+  	top:100px;
+  	background-position: 50% 52%;
+}
+#section-2{
+	clear: both;
+	height: 690px;
+	margin: 0 auto;
+	margin-top: 120px;
+	margin-bottom: 800px;
+	width: 1300px;
+	background: url('https://teams.aexp.com/sites/ushub/UShub/_images/gallery/Slide1.png');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	position: relative;
+  	background-position: 50% 52%;
+}
+
+#section-3{
+	clear: both;
+	height: 690px;
+	margin: 0 auto;
+	margin-top: 120px;
+	margin-bottom: 800px;
+	width: 1300px;
+	background: url('https://teams.aexp.com/sites/ushub/UShub/_images/gallery/Slide2.PNG');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	position: relative;
+  	background-position: 50% 52%;
+}
+
+#section-4{
+	clear: both;
+	height: 690px;
+	margin: 0 auto;
+	margin-top: 120px;
+	margin-bottom: 800px;
+	width: 1300px;
+	background: url('https://teams.aexp.com/sites/ushub/UShub/_images/gallery/Slide3.PNG');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	position: relative;
+  	background-position: 50% 52%;
+  	
+}
+
+#section-5{
+	clear: both;
+	height: 690px;
+	margin: 0 auto;
+	margin-top: 120px;
+	margin-bottom: 800px;
+	width: 1300px;
+	background: url('https://teams.aexp.com/sites/ushub/UShub/_images/gallery/Slide4.PNG');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	position: relative;
+  	background-position: 50% 52%;
+}
+
+#section-6{
+	clear: both;
+	height: 690px;
+	margin: 0 auto;
+	margin-top: 120px;
+	margin-bottom: 800px;
+	width: 1300px;
+	background: url('https://teams.aexp.com/sites/ushub/UShub/_images/gallery/Slide5.PNG');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	position: relative;
+  	background-position: 50% 52%;
+}
+
+
+#section-7{
+	clear: both;
+	height: 690px;
+	margin: 0 auto;
+	margin-top: 120px;
+	margin-bottom: 800px;
+	width: 1300px;
+	background: url('https://teams.aexp.com/sites/ushub/UShub/_images/gallery/Slide7.PNG');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	position: relative;
+  	background-position: 50% 52%;
+}
+
+#section-8{
+	clear: both;
+	height: 690px;
+	margin: 0 auto;
+	margin-top: 120px;
+	margin-bottom: 800px;
+	width: 1300px;
+	background: url('https://teams.aexp.com/sites/ushub/UShub/_images/gallery/Slide5.PNG');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	position: relative;
+  	background-position: 50% 52%;
+}
+
+
+#section-9{
+	clear: both;
+	height: 690px;
+	margin: 0 auto;
+	margin-top: 120px;
+	margin-bottom: 800px;
+	width: 1300px;
+	background: url('https://teams.aexp.com/sites/ushub/UShub/_images/gallery/Slide6.PNG');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	position: relative;
+  	background-position: 50% 52%;
+}
+
+
+#section-10{
+	clear: both;
+	height: 690px;
+	margin: 0 auto;
+	margin-top: 120px;
+	margin-bottom: 800px;
+	width: 1300px;
+	background: url('https://teams.aexp.com/sites/ushub/UShub/_images/gallery/Slide10.PNG');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	position: relative;
+  	background-position: 50% 52%;
+}
+
+
+#section-11{
+	clear: both;
+	height: 690px;
+	margin: 0 auto;
+	margin-top: 120px;
+	margin-bottom: 800px;
+	width: 1300px;
+	background: url('https://teams.aexp.com/sites/ushub/UShub/_images/gallery/Slide11.PNG');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	position: relative;
+  	background-position: 50% 52%;
+}
+
+
+#section-12{
+	clear: both;
+	height: 690px;
+	margin: 0 auto;
+	margin-top: 120px;
+	margin-bottom: 800px;
+	width: 1300px;
+	background: url('https://teams.aexp.com/sites/ushub/UShub/_images/gallery/Slide12.PNG');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	position: relative;
+  	background-position: 50% 52%;
+}
+
+#section-13{
+	clear: both;
+	height: 690px;
+	margin: 0 auto;
+	margin-top: 120px;
+	margin-bottom: 800px;
+	width: 1300px;
+	background: url('https://teams.aexp.com/sites/ushub/UShub/_images/gallery/Slide13.PNG');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	position: relative;
+  	background-position: 50% 52%;
+}
+
+#section-14{
+	clear: both;
+	height: 690px;
+	margin: 0 auto;
+	margin-top: 120px;
+	margin-bottom: 800px;
+	width: 1300px;
+	background: url('https://teams.aexp.com/sites/ushub/UShub/_images/gallery/Slide14.PNG');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	position: relative;
+  	background-position: 50% 52%;
+}
+
+
+#section-f{
+	clear: both;
+	height: 690px;
+	margin: 0 auto;
+	margin-top: 120px;
+	width: 1300px;
+	background: url('https://teams.aexp.com/sites/ushub/UShub/_images/gallery/f.PNG');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	position: relative;
+  	background-position: 50% 52%;
+}
+#ftr {
+	background: #002663;
+	height:40px;
+	margin:25px 0px 0px 0px;
+	border-bottom: 3px solid #00193F
+}
+#motto {
+	color: white;
+	font-size: 17px;
+	text-align: center;
+	margin: 10px 0px 0px 0px;
+}

@@ -1,0 +1,121 @@
+﻿
+*{
+	scrollbar-face-color:       #f9f9f9;  
+    scrollbar-shadow-color:     #f4f4f4;  
+    scrollbar-highlight-color:  #fcfcfc;  
+    scrollbar-3dlight-color:    #ffffff;  
+    scrollbar-darkshadow-color: #f2f2f2;  
+    scrollbar-track-color:      #ffffff;  
+    scrollbar-arrow-color:      #ffffff; 
+}
+
+
+body {
+	margin:0px auto;
+	font-family:Tahoma;
+	background: #fafafa
+	}
+
+
+#hed {
+	height: 85px;
+	background:#ffffff;
+	padding-left: 200px;
+	float:left;
+	color:black;
+	font-family: ; 
+	min-width: 1300px;
+	border-bottom: 10px solid #04245a;
+	margin-bottom: 100px;
+}
+
+
+#logo{
+	width:230px;
+	float: left;
+	padding:15px 0px 0px 13px;
+
+}
+
+
+#logo p{
+	color: #002663;
+	margin:20px;
+	position: relative;
+	left:13px;
+	font-size: 23px;
+	font-weight:200;
+	top:6px;
+}
+
+
+#nav{
+	min-width:1150px; 
+	float: left;
+	left: 170px;
+	position: absolute;
+}
+
+#section{
+	clear: both;
+	height: 580px;
+	padding: 15px 0px 15px -40px;
+	margin: -130px auto 0px;
+	margin-bottom: 140px;
+	width: 1350px;
+}
+
+#menu li{
+	width:120px;
+	list-style-type: none;
+	display: block;
+	float:left;
+	height: 70px;
+	padding:10px 12px 0px ;
+	font-weight: 100
+
+}
+
+
+#menu li:hover {
+		
+	color:black;
+	text-transform: uppercase;
+	cursor:hand;
+	font-weight: bold;
+
+}
+
+
+#menu {
+	
+}
+
+
+#menu a{
+	text-decoration: none;
+	color:#000000;
+	font-size: 15px;
+font-family: verdana;
+	text-decoration: none;
+}
+
+
+
+#ftr {
+	background: white;
+	height:70px;
+	font-family:Tahoma;
+	color:black;
+	 margin: 0 auto;
+	 padding-top: 20px;
+padding-left: 1200px;
+	border-top: 10px solid #04245a; 
+}
+#motto {
+	color: white;
+font-family:Tahoma;
+	color:black;	font-size: 17px;
+	text-align: center;
+
+}
